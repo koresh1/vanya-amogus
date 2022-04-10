@@ -1,0 +1,33 @@
+h1 {
+    border: 1px red solid;
+    background-color: rgb(5, 30, 216);
+    padding: 25px;
+    border-radius: 50px;
+    font-style: italic;
+}
+
+body {
+    background-color: teal;
+    color: tomato;
+}
+img {
+    width: 1000px
+}
+button {
+    color: rgb(34, 174, 74);
+    font-size: 58px;
+    border-radius: 20px;
+    display:inline-block;
+    background-color: brown;
+    padding: 15px;
+    font-family: "Gill Sans", sans-serif;
+}
+a {
+    text-decoration: none;
+    color:whitesmoke;
+}
+.body2 {
+    background-color: orange;
+    font-size: 70px;
+    color: fuchsia;
+}
